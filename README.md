@@ -2,7 +2,9 @@ This repository represents the code used for the following paper: [...]
 
 - The ControlNet [repo](https://github.com/lllyasviel/ControlNet) was forked and slightly modified.
 
-- The changes made are made clear through the commit history. The licence from the forked repository applies. Note that this work does not give medical advice nor does it interpret medical results.
+- The changes made are made clear through the commit history. The licence from the forked repository applies.
+
+- Note that this work does not give medical advice nor does it interpret medical results.
   
 - Datasets: [BUSI](https://scholar.cu.edu.eg/?q=afahmy/pages/dataset), [CAMUS](https://www.creatis.insa-lyon.fr/Challenge/camus/)
 
