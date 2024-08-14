@@ -1,3 +1,17 @@
+This repository represents the code used for the following paper: [...]
+
+- The ControlNet [repo](https://github.com/lllyasviel/ControlNet) was forked and slightly modified.
+
+- The changes made are made clear through the commit history. The licence from the forked repository applies.
+
+- Note that this work does not give medical advice nor does it interpret medical results.
+  
+- Datasets: [BUSI](https://scholar.cu.edu.eg/?q=afahmy/pages/dataset), [CAMUS](https://www.creatis.insa-lyon.fr/Challenge/camus/)
+
+Read the full details and guide at https://github.com/Toterino/Ultrasound_LDM
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # News: A nightly version of ControlNet 1.1 is released!
 
 [ControlNet 1.1](https://github.com/lllyasviel/ControlNet-v1-1-nightly) is released. Those new models will be merged to this repo after we make sure that everything is good.
