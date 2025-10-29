@@ -1,7 +1,7 @@
 from share import *
 import os
 os.environ["CUDA_VISIBLE_DEVICES"] = "3" # Use only GPU #3
-
+#Umarfarooq
 import pytorch_lightning as pl
 from torch.utils.data import DataLoader
 from tutorial_dataset import MyDataset
